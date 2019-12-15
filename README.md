@@ -16,6 +16,6 @@
 
 ### Полезные ссылки
 
-[Turorialspoint IDE — полностью рабочая веб-среда для разработки на lisp](https://www.tutorialspoint.com/execute_lisp_online.php)
+[Rextester — веб-среда для разработки на lisp](https://rextester.com/l/common_lisp_online_compiler)
 
 [Turorialspoint — туториал по разработке на lisp](https://www.tutorialspoint.com/lisp/index.htm)

@@ -17,7 +17,9 @@
 ## Полезные материалы
 
 ### Туториал 
-[Lists in Lisp : Lisp Tutorial #6](https://www.youtube.com/watch?v=EcNmfDdFlE4)
+[Ссылка: Lists in Lisp : Lisp Tutorial #6](https://www.youtube.com/watch?v=EcNmfDdFlE4)
+
+
 ![image](https://user-images.githubusercontent.com/20648009/70869925-ce9e5c00-1f9e-11ea-93bd-2251a1ff4f83.png)
 
 ### Пример

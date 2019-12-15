@@ -16,6 +16,6 @@
 
 ### Полезные ссылки
 
-[Repl.it — удобная веб-среда для разработки на lisp](https://repl.it/languages/scheme)
+[Turorialspoint IDE — полностью рабочая веб-среда для разработки на lisp](https://www.tutorialspoint.com/execute_lisp_online.php)
 
 [Turorialspoint — туториал по разработке на lisp](https://www.tutorialspoint.com/lisp/index.htm)

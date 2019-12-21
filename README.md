@@ -18,4 +18,4 @@
 
 [Rextester — веб-среда для разработки на lisp](https://rextester.com/l/common_lisp_online_compiler)
 
-[Turorialspoint — туториал по разработке на lisp](https://www.tutorialspoint.com/lisp/index.htm)
+[Курс лекций. Морозов М.Н.](http://www.mari.ru/mmlab/home/lisp/title.htm#LEC)
